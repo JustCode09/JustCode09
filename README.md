@@ -1,16 +1,20 @@
-## Hi there 👋
+ 👋 Hi, I'm Saurav Bhandari
+ 
+🎓 BCA Student | Aspiring Mern Developer  
+🌱 Currently learning GitHub, HTML, CSS, JavaScript, and MERN Stack  
+🚀 On a mission to become job-ready   
+💼 Focused on clean code, self-discipline, and long-term career goals  
+📫 Reach me: professionalacc011@example.com  
 
-<!--
-**JustCode09/JustCode09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies I'm Learning
+- HTML, CSS, JavaScript
+- MongoDB, Express.js, React, Node.js (MERN)
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📈 My Goals
+- Build real-world projects
+- Become consistent on GitHub
+- Improve communication, confidence, and coding skills
+- Prepare for long-term career in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ “Consistency beats talent when talent doesn’t work hard.”
