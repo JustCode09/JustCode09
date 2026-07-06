@@ -1,4 +1,4 @@
-# Hi, I'm Saurav 👋
+# Hi, I'm saurav 👋
 
 🎓 BCA Student | Backend Developer in progress
 
